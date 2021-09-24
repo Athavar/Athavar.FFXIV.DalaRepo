@@ -5,11 +5,13 @@
   "AssemblyVersion": "1.0.0.0",
   "Description": "Various tools for private use.",
   "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
   "Tags": [
     "tool",
     "athavar"
   ],
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/plugins/Athavar.FFXIV.Plugin/images/icon.png",
   "Punchline": "Various tools for private use."
 }

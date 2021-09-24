@@ -1,0 +1,22 @@
+{
+  "Author": "Athavar",
+  "Name": "Athavar's Tools",
+  "InternalName": "Athavar.FFXIV.Plugin",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Various tools for private use.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "tool",
+    "athavar"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Various tools for private use.",
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadCount": 1,
+  "LastUpdate": 0,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/plugins/Athavar.FFXIV.Plugin/latest.zip"
+}

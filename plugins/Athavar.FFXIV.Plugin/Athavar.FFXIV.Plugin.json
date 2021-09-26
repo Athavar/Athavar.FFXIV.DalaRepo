@@ -2,7 +2,7 @@
   "Author": "Athavar",
   "Name": "Athavar's Tools",
   "InternalName": "Athavar.FFXIV.Plugin",
-  "AssemblyVersion": "1.0.1.0",
+  "AssemblyVersion": "1.0.2.0",
   "Description": "Various tools for private use.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",

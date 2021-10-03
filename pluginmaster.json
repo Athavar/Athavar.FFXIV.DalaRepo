@@ -5,7 +5,7 @@
         "Punchline": "Various tools for private use.",
         "Description": "Various tools for private use.",
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "1.0.2.0",
+        "AssemblyVersion": "1.0.3.0",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
@@ -17,6 +17,6 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1632825284"
+        "LastUpdated": "1633287828"
     }
 ]

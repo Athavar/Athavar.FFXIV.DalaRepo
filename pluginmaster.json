@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1638303248"
+        "LastUpdated": "1638303451"
     },
     {
         "Author": "Athavar",
@@ -25,7 +25,7 @@
         "Punchline": "Enchant your experience.",
         "Description": "Connected FFXIV with the StreamDeck.",
         "InternalName": "Athavar.FFXIV.StreamDeckPlugin",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.2.0",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.StreamDeckPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
@@ -37,6 +37,6 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.StreamDeckPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.StreamDeckPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1638303248"
+        "LastUpdated": "1638303451"
     }
 ]

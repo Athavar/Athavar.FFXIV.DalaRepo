@@ -1,8 +1,8 @@
 {
   "Author": "Athavar",
-  "Name": "Athavar's Tools",
+  "Name": "Athavar's ToolBox",
   "InternalName": "Athavar.FFXIV.Plugin",
-  "AssemblyVersion": "1.0.5.0",
+  "AssemblyVersion": "1.1.0.0",
   "Description": "Various tools for private use.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",

@@ -4,8 +4,9 @@
         "Name": "Athavar's ToolBox",
         "Punchline": "Various tools for private use.",
         "Description": "Various tools for private use.",
+        "Changelog": "Add the module Instancinator",
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "1.3.2.0",
+        "AssemblyVersion": "1.3.3.0",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
@@ -17,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649602647"
+        "LastUpdated": "1649606615"
     },
     {
         "Author": "Athavar",
@@ -37,6 +38,6 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.StreamDeckPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.StreamDeckPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649602647"
+        "LastUpdated": "1649606615"
     }
 ]

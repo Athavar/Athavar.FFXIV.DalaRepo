@@ -5,7 +5,7 @@
         "Punchline": "Various tools for private use.",
         "Description": "Various tools for private use.",
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "1.3.1.0",
+        "AssemblyVersion": "1.3.2.0",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649601575"
+        "LastUpdated": "1649602647"
     },
     {
         "Author": "Athavar",
@@ -37,6 +37,6 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.StreamDeckPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.StreamDeckPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649601575"
+        "LastUpdated": "1649602647"
     }
 ]

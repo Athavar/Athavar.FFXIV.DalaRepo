@@ -2,8 +2,9 @@ import json
 import os
 from time import time
 from sys import argv
-from os.path import getmtime
 from zipfile import ZipFile, ZIP_DEFLATED
+import subprocess
+
 
 BRANCH = os.environ['GITHUB_REF'].split('refs/heads/')[-1]
 DOWNLOAD_URL = 'https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/{branch}/plugins/{plugin_name}/latest.zip'
@@ -87,13 +88,16 @@ def write_master(master):
 def trim_manifest(plugin):
     return {k: plugin[k] for k in TRIMMED_KEYS if k in plugin}
 
+def git(*args):
+    return subprocess.check_output(['git'] + list(args), universal_newlines=True)
+    
 def last_updated():
     with open('pluginmaster.json') as f:
         master = json.load(f)
 
     for plugin in master:
         latest = f'plugins/{plugin["InternalName"]}/latest.zip'
-        modified = int(getmtime(latest))
+        modified = int(git('log', '-1', '--format="%at"', latest).strip('"\n'))
 
         if 'LastUpdated' not in plugin or modified != int(plugin['LastUpdated']):
             plugin['LastUpdated'] = str(modified)

@@ -2,14 +2,14 @@
   "Author": "Athavar",
   "Name": "Athavar's ToolBox",
   "InternalName": "Athavar.FFXIV.Plugin",
-  "AssemblyVersion": "1.3.3.0",
+  "AssemblyVersion": "1.3.4.0",
   "Description": "Various tools for private use.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/plugins/Athavar.FFXIV.Plugin/images/icon.png",
   "Punchline": "Various tools for private use.",
-  "Changelog": "Add the module Instancinator"
+  "Changelog": "Update for API 6"
 }

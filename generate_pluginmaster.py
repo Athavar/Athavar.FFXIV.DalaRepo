@@ -94,10 +94,10 @@ def git(*args):
 def last_updated():
     with open('pluginmaster.json') as f:
         master = json.load(f)
-
+        
     for plugin in master:
         latest = f'plugins/{plugin["InternalName"]}/latest.zip'
-        modified = int(git('log', '-1', '--format="%at"', latest).strip('"\n'))
+        modified = int(git('log', '-1', '--format=%at', latest).strip('\n'))
 
         if 'LastUpdated' not in plugin or modified != int(plugin['LastUpdated']):
             plugin['LastUpdated'] = str(modified)

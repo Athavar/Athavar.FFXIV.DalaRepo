@@ -2,7 +2,7 @@
   "Author": "Athavar",
   "Name": "StreamDeck Integration",
   "InternalName": "Athavar.FFXIV.StreamDeckPlugin",
-  "AssemblyVersion": "1.1.1.0",
+  "AssemblyVersion": "1.1.2.0",
   "Description": "Connected FFXIV with the StreamDeck.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.StreamDeckPlugin",

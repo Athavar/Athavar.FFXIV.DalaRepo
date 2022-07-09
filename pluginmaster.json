@@ -27,7 +27,7 @@
         "Description": "Connected FFXIV with the StreamDeck.",
         "Changelog": "Update for API 6",
         "InternalName": "Athavar.FFXIV.StreamDeckPlugin",
-        "AssemblyVersion": "1.1.2.0",
+        "AssemblyVersion": "1.1.3.0",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.StreamDeckPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
@@ -39,6 +39,6 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.StreamDeckPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.StreamDeckPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1656153586"
+        "LastUpdated": "1657327204"
     }
 ]

@@ -27,7 +27,7 @@
         "Description": "Various tools for private use.",
         "Changelog": "Update to net6. Yes module temporary disabled",
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "1.4.1",
+        "AssemblyVersion": "1.4.2",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
@@ -39,6 +39,6 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1661321142"
+        "LastUpdated": "1661321731"
     }
 ]

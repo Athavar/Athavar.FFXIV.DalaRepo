@@ -11,5 +11,5 @@
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/plugins/Athavar.FFXIV.Plugin/images/icon.png",
   "Punchline": "Various tools for private use.",
-  "Changelog": "Update to net6. Yes module temporary disabled"
+  "Changelog": "Add AutoSpear Module"
 }

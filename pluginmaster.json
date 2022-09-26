@@ -1,6 +1,27 @@
 [
     {
         "Author": "Athavar",
+        "Name": "Athavar's ToolBox",
+        "Punchline": "Various tools for private use.",
+        "Description": "Various tools for private use.",
+        "Changelog": "Update to net6. Yes module temporary disabled",
+        "InternalName": "Athavar.FFXIV.Plugin",
+        "AssemblyVersion": "1.4.6",
+        "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "IconUrl": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/plugins/Athavar.FFXIV.Plugin/images/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1664228371"
+    },
+    {
+        "Author": "Athavar",
         "Name": "StreamDeck Integration",
         "Punchline": "Enchant your experience.",
         "Description": "Connected FFXIV with the StreamDeck.",
@@ -19,26 +40,5 @@
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.StreamDeckPlugin/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1661944926"
-    },
-    {
-        "Author": "Athavar",
-        "Name": "Athavar's ToolBox",
-        "Punchline": "Various tools for private use.",
-        "Description": "Various tools for private use.",
-        "Changelog": "Update to net6. Yes module temporary disabled",
-        "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "1.4.5",
-        "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 7,
-        "IconUrl": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/plugins/Athavar.FFXIV.Plugin/images/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1661518284"
     }
 ]

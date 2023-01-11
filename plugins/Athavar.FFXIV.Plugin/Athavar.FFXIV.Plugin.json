@@ -2,14 +2,17 @@
   "Author": "Athavar",
   "Name": "Athavar's ToolBox",
   "InternalName": "Athavar.FFXIV.Plugin",
-  "AssemblyVersion": "1.4.11",
+  "AssemblyVersion": "1.5.0",
   "Description": "Various tools for private use.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/plugins/Athavar.FFXIV.Plugin/images/icon.png",
   "Punchline": "Various tools for private use.",
-  "Changelog": ""
+  "Changelog": "",
+  "AcceptsFeedback": false
 }

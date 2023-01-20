@@ -6,7 +6,7 @@
         "Description": "Various tools for private use.",
         "Changelog": "Add CraftQueue Module",
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "1.5.2",
+        "AssemblyVersion": "1.5.3",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1674237678"
+        "LastUpdated": "1674256635"
     },
     {
         "Author": "Athavar",

@@ -6,7 +6,7 @@
         "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, Instancinator, Macro, OpcodeWizard, Yes",
         "Changelog": "Add OpcodeWizard and DPS (Test) Module",
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "2.0.2",
+        "AssemblyVersion": "2.0.3",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1675551880"
+        "LastUpdated": "1675554055"
     },
     {
         "Author": "Athavar",

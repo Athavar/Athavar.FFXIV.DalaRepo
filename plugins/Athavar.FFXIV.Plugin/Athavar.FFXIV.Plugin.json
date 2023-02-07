@@ -2,7 +2,7 @@
   "Author": "Athavar",
   "Name": "Athavar's ToolBox",
   "InternalName": "Athavar.FFXIV.Plugin",
-  "AssemblyVersion": "2.0.5",
+  "AssemblyVersion": "2.0.6",
   "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, Instancinator, Macro, OpcodeWizard, Yes",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
@@ -13,6 +13,6 @@
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/plugins/Athavar.FFXIV.Plugin/images/icon.png",
   "Punchline": "Various tools for private use.",
-  "Changelog": "Add OpcodeWizard and DPS (Test) Module",
+  "Changelog": "Version 2.0.6\n[opcodewizard] Add remote pull of opcodes\n[dps] fix duration of TerritoryEncounter\n[dps] fix that encounter is detected as invalid for filter set\nfix GetPercentHq for crafts without Hq possibility",
   "AcceptsFeedback": false
 }

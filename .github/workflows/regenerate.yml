@@ -2,8 +2,10 @@ name: Regenerate PluginMaster
 on: 
   workflow_dispatch:
   push:
+    paths:
+      - 'plugins/**'
     branches:
-    - master
+      - master
 concurrency: regenerate
 jobs:
   generate:

@@ -33,6 +33,11 @@ TRIMMED_KEYS = [
     'DalamudApiLevel',
     'IconUrl',
     'ImageUrls',
+    'IsThirdParty',
+    'LoadSync',
+    'AcceptsFeedback',
+    'LoadPriority',
+    'CanUnloadAsync'
 ]
 
 def main():
@@ -68,7 +73,10 @@ def extract_manifests():
 def add_extra_fields(manifests):
     for manifest in manifests:
         # generate the download link from the internal assembly name
-        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(branch=BRANCH, plugin_name=manifest["InternalName"])
+        
+        if not manifest.get('DownloadLinkInstall'):        
+            manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(branch=BRANCH, plugin_name=manifest["InternalName"])
+            
         # add default values if missing
         for k, v in DEFAULTS.items():
             if k not in manifest:

@@ -120,9 +120,12 @@ def last_updated():
         master = json.load(f)
 
     for plugin in master:
-        latest = f'plugins/{plugin["InternalName"]}/latest.zip'
-        modified = int(git('log', '-1', '--format=%at', latest).strip('\n'))
-
+        latest_zip = f'plugins/{plugin["InternalName"]}/latest.zip'
+        latest_manifest = f'plugins/{plugin["InternalName"]}/{plugin["InternalName"]}.json'
+        modified_zip = int(git('log', '-1', '--format=%at', latest_zip).strip('\n'))
+        modified_manifest = int(git('log', '-1', '--format=%at', latest_manifest).strip('\n'))
+        modified = modified_manifest if modified_manifest > modified_zip else modified_zip
+ 
         if 'LastUpdated' not in plugin or modified != int(plugin['LastUpdated']):
             plugin['LastUpdated'] = str(modified)
 

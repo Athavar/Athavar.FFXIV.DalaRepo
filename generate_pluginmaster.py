@@ -37,7 +37,8 @@ TRIMMED_KEYS = [
     'LoadSync',
     'AcceptsFeedback',
     'LoadPriority',
-    'CanUnloadAsync'
+    'CanUnloadAsync',
+    'DownloadLinkInstall',
 ]
 
 def main():

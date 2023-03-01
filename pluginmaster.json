@@ -6,7 +6,7 @@
         "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, Instancinator, Macro, OpcodeWizard, Yes",
         "Changelog": "Version 2.0.9\n[dps] add setting to configure text refresh rate\n\nVersion 2.0.8\n[dps] fix multiple adding of Combatant in a singe encounter\n[dps] improve encounter stat calculation's\n\nVersion 2.0.7\n[dps] Add History Tab\n[dps] Limit dps/hps calculation in the first second\n\nVersion 2.0.6\n[opcodewizard] Add remote pull of opcodes\n[dps] fix duration of TerritoryEncounter\n[dps] fix that encounter is detected as invalid for filter set\nfix GetPercentHq for crafts without Hq possibility",
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "2.0.12",
+        "AssemblyVersion": "2.0.13",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -15,13 +15,13 @@
         "LoadSync": false,
         "AcceptsFeedback": false,
         "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.12/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.13/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.12/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.12/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.13/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.13/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1677015154"
+        "LastUpdated": "1677699502"
     },
     {
         "Author": "Athavar",

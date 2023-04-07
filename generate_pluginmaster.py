@@ -64,8 +64,8 @@ def extract_manifests():
             continue
 
         plugin_name = dirpath.split('/')[-1]
-        if plugin_name + '.json' in filenames:
-            latest_manifest = f'{dirpath}/{plugin_name}.json'
+        if plugin_name + '.manifest' in filenames:
+            latest_manifest = f'{dirpath}/{plugin_name}.manifest'
             with open(latest_manifest) as f:
                 manifest = json.loads(f.read())
                 print(manifest)
@@ -122,7 +122,7 @@ def last_updated():
     for plugin in master:
         latest_zip = f'plugins/{plugin["InternalName"]}/latest.zip'
         modified_zip = int(git('log', '-1', '--format=%at', latest_zip).strip('\n')) if os.path.exists(latest_zip) else 0
-        latest_manifest = f'plugins/{plugin["InternalName"]}/{plugin["InternalName"]}.json'
+        latest_manifest = f'plugins/{plugin["InternalName"]}/{plugin["InternalName"]}.manifest'
         modified_manifest = int(git('log', '-1', '--format=%at', latest_manifest).strip('\n')) if os.path.exists(latest_manifest) else 0
         modified = modified_manifest if modified_manifest > modified_zip else modified_zip
  

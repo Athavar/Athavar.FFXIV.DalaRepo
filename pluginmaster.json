@@ -21,7 +21,7 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.StreamDeckPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.StreamDeckPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673461463"
+        "LastUpdated": "1680911461"
     },
     {
         "Author": "Athavar",
@@ -45,6 +45,6 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.19/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.19/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1680901481"
+        "LastUpdated": "1680911461"
     }
 ]

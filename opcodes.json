@@ -1,12 +1,12 @@
 {
   "Opcodes": {
-    "ActorControl": 706,
-    "EffectResult": 949,
-    "ActionEffect1": 251,
-    "ActionEffect8": 751,
-    "ActionEffect16": 966,
-    "ActionEffect24": 151,
-    "ActionEffect32": 587
+    "ActorControl": 897,
+    "EffectResult": 948,
+    "ActionEffect1": 969,
+    "ActionEffect8": 542,
+    "ActionEffect16": 844,
+    "ActionEffect24": 889,
+    "ActionEffect32": 831
   },
-  "GameVersion": "2023.03.24.0000.0000"
+  "GameVersion": "2023.05.18.0000.0000"
 }

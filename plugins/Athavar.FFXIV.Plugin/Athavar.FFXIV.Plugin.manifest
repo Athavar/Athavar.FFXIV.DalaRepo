@@ -2,18 +2,19 @@
   "Author": "Athavar",
   "Name": "Athavar's ToolBox",
   "InternalName": "Athavar.FFXIV.Plugin",
-  "AssemblyVersion": "2.0.26",
+  "AssemblyVersion": "2.0.27",
   "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, Instancinator, Macro, OpcodeWizard, Yes",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/plugins/Athavar.FFXIV.Plugin/images/icon.png",
   "Punchline": "Various tools for private use.",
   "Changelog": "Go to https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/latest to find the last changes.",
   "AcceptsFeedback": false,
-  "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.26/latest.zip"
+  "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.27/latest.zip"
 }

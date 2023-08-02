@@ -30,7 +30,7 @@
         "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, Instancinator, Macro, OpcodeWizard, Yes",
         "Changelog": "Go to https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/latest to find the last changes.",
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "2.0.27",
+        "AssemblyVersion": "2.0.28",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -40,12 +40,12 @@
         "AcceptsFeedback": false,
         "LoadPriority": 0,
         "CanUnloadAsync": false,
-        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.27/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.28/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.27/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.27/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.28/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.28/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1690714595"
+        "LastUpdated": "1691002774"
     }
 ]
